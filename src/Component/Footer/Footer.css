@@ -1,0 +1,20 @@
+.footer {
+  background-color: rgb(255, 116, 116);
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  padding: 10px 0;
+}
+
+.footer_texts {
+  background-color: rgb(194, 126, 126);
+  margin: 10px 4px;
+  padding: 40px;
+}
+
+.footer_texts:nth-child(1) {
+ position: absolute;
+ /* margin: 20px; */
+}

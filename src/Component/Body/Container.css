@@ -1,0 +1,55 @@
+.App {
+  background: linear-gradient(
+    to right,
+    rgba(66, 66, 78, 0.774),
+    rgba(253, 253, 226, 0.5)
+  );
+  color: #fff;
+  height: 70vh;
+  margin: 20px 1rem;
+  border-radius: 3px;
+}
+
+h3 {
+  text-align: end;
+  font-size: 8rem;
+  margin: 30px;
+  padding-top: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.location {
+  margin: 5px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+.geolocation {
+  margin-right: 8rem;
+  margin-top: 8.3rem;
+}
+
+.geolocation > p {
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+p {
+  font-size: large;
+  font-weight: 500;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 5rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h5 {
+  font-weight: 500;
+}

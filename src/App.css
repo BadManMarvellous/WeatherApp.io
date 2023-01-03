@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(
+    to right,
+    rgba(253, 253, 226, 0.5),
+    rgba(99, 99, 112, 0.774)
+  );
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: start;
+  background-color: rgb(253, 234, 234);
+}
+
